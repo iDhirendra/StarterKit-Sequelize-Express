@@ -18,7 +18,9 @@ where DATABASE_URL is the URL of your database server.
 ## run server
 npm run start:dev
 
-# SEQUELIZE
+## DATABASE
+create a database todos-dev
+
 ## How to use sequelize commonds
 use node_modules/.bin/sequelize insted of sequelize
 
