@@ -21,7 +21,7 @@ npm run start:dev
 ## DATABASE
 create a database todos-dev
 
-## How to use sequelize commonds
+## How to use sequelize commands
 use node_modules/.bin/sequelize insted of sequelize
 
 # APIs
